@@ -86,7 +86,7 @@ export default function AboutPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden bg-secondary">
                 <img
-                  src="/about-team-family-business-kenya.jpg"
+                  src="/ourteam.jpg"
                   alt="Flashlight Live Events team"
                   className="w-full h-full object-cover"
                 />
