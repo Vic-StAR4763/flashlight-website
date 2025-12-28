@@ -29,6 +29,7 @@ export function Header() {
 
         <div className="flex lg:hidden">
           <button
+            id="mobile-menu-button"
             type="button"
             onClick={() => setMobileMenuOpen(true)}
             className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-foreground"
@@ -38,7 +39,7 @@ export function Header() {
           </button>
         </div>
 
-        <div className="hidden lg:flex lg:gap-x-8">
+        <div id="desktop-nav" className="hidden lg:flex lg:gap-x-8">
           {navigation.map((item) => (
             <Link
               key={item.name}

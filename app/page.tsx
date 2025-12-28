@@ -90,7 +90,7 @@ export default function HomePage() {
                 From joyful weddings and celebrations to dignified funeral arrangements, we provide professional
                 services for all of life&apos;s important moments in Makueni County.
               </p>
-              <div className="mt-10 flex flex-col sm:flex-row gap-4">
+              <div id="hero-call-button" className="mt-10 flex flex-col sm:flex-row gap-4">
                 <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground">
                   <a href="tel:+254722709590">
                     <Phone className="h-5 w-5 mr-2" />
@@ -114,7 +114,7 @@ export default function HomePage() {
         </section>
 
         {/* Services Overview */}
-        <section className="py-16 lg:py-24 bg-card">
+        <section id="services-section" className="py-16 lg:py-24 bg-card">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="font-serif text-3xl font-bold text-foreground sm:text-4xl">Our Services</h2>
