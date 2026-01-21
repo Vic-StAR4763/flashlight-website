@@ -13,6 +13,166 @@ const categories = ["All", "Weddings", "Ceremonies", "Graduations", "Funerals", 
 const galleryImages = [
   //weddings
   {
+    src: "/IMG_0264.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0298.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0816.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0845.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0872.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0902.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0903.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_0957.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1073.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1079.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1089.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1095.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1150.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1217.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1264.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1266.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1344.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1345.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1510.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1613.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_1974.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2034.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2243.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2329.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2342.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2357.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2382.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_2423.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3580.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3581.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3583.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3783.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3785.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_3793.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_9623.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_9688.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_9821.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_9999.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_12641.jpg",
+    category: "Weddings",
+  },
+  {
+    src: "/IMG_12661.jpg",
+    category: "Weddings",
+  },
+  {
     src: "/IMG-20251215-WA0050.jpg",
     caption: "Elegant wedding tent setup with decorations",
     category: "Weddings",
@@ -340,6 +500,38 @@ const galleryImages = [
   },
   //Funerals
   {
+    src: "/IMG_1804.jpg",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_1898.jpg",
+    category: "Funerals",
+  },  
+  {
+    src: "/IMG_3508.jpg",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_3990.jpg",
+    category: "Funerals",
+  },  
+  {
+    src: "/IMG_7272.jpg",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_7580.jpg",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2110.jpg",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_9676.jpg",
+    category: "Funerals",
+  },
+  {
     src: "/WhatsApp Image 2025-12-27 at 00.57.35d.jpeg",
     caption: "Respectful funeral tent and seating arrangement",
     category: "Funerals",
@@ -369,37 +561,15 @@ const galleryImages = [
     caption: "Dignified funeral flower arrangements",
     category: "Funerals",
   },
-  {
-    src: "/gallery-funeral-tent-seating-arrangement.jpg",
-    caption: "Respectful funeral tent and seating arrangement",
-    category: "Funerals",
-  },
-  {
-    src: "/gallery-funeral-flowers-arrangement.jpg",
-    caption: "Dignified funeral flower arrangements",
-    category: "Funerals",
-  },
-  {
-    src: "/gallery-funeral-tent-seating-arrangement.jpg",
-    caption: "Respectful funeral tent and seating arrangement",
-    category: "Funerals",
-  },
-  {
-    src: "/gallery-funeral-flowers-arrangement.jpg",
-    caption: "Dignified funeral flower arrangements",
-    category: "Funerals",
-  },
-  {
-    src: "/gallery-funeral-tent-seating-arrangement.jpg",
-    caption: "Respectful funeral tent and seating arrangement",
-    category: "Funerals",
-  },
-  {
-    src: "/gallery-funeral-flowers-arrangement.jpg",
-    caption: "Dignified funeral flower arrangements",
-    category: "Funerals",
-  },
   //Setups
+  {
+    src: "/IMG_7327.jpg",
+    category: "Setups",
+  },
+  {
+    src: "/IMG_7332.jpg",
+    category: "Setups",
+  },
   {
     src: "/IMG-20251214-WA0014.jpg",
     caption: "Professional catering buffet setup",
