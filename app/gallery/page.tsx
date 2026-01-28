@@ -13,163 +13,163 @@ const categories = ["All", "Weddings", "Ceremonies", "Graduations", "Funerals", 
 const galleryImages = [
   //weddings
   {
-    src: "/IMG_0264.jpg",
+    src: "/IMG_0264.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0298.jpg",
+    src: "/IMG_0298.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0816.jpg",
+    src: "/IMG_0816.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0845.jpg",
+    src: "/IMG_0845.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0872.jpg",
+    src: "/IMG_0872.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0902.jpg",
+    src: "/IMG_0902.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0903.jpg",
+    src: "/IMG_0903.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_0957.jpg",
+    src: "/IMG_0957.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1073.jpg",
+    src: "/IMG_1073.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1079.jpg",
+    src: "/IMG_1079.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1089.jpg",
+    src: "/IMG_1089.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1095.jpg",
+    src: "/IMG_1095.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1150.jpg",
+    src: "/IMG_1150.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1217.jpg",
+    src: "/IMG_1217.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1264.jpg",
+    src: "/IMG_1264.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1266.jpg",
+    src: "/IMG_1266.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1344.jpg",
+    src: "/IMG_1344.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1345.jpg",
+    src: "/IMG_1345.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1510.jpg",
+    src: "/IMG_1510.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1613.jpg",
+    src: "/IMG_1613.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_1974.jpg",
+    src: "/IMG_1974.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2034.jpg",
+    src: "/IMG_2034.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2243.jpg",
+    src: "/IMG_2243.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2329.jpg",
+    src: "/IMG_2329.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2342.jpg",
+    src: "/IMG_2342.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2357.jpg",
+    src: "/IMG_2357.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2382.jpg",
+    src: "/IMG_2382.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_2423.jpg",
+    src: "/IMG_2423.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3580.jpg",
+    src: "/IMG_3580.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3581.jpg",
+    src: "/IMG_3581.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3583.jpg",
+    src: "/IMG_3583.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3783.jpg",
+    src: "/IMG_3783.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3785.jpg",
+    src: "/IMG_3785.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_3793.jpg",
+    src: "/IMG_3793.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_9623.jpg",
+    src: "/IMG_9623.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_9688.jpg",
+    src: "/IMG_9688.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_9821.jpg",
+    src: "/IMG_9821.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_9999.jpg",
+    src: "/IMG_9999.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_12641.jpg",
+    src: "/IMG_12641.JPG",
     category: "Weddings",
   },
   {
-    src: "/IMG_12661.jpg",
+    src: "/IMG_12661.JPG",
     category: "Weddings",
   },
   {
@@ -500,35 +500,35 @@ const galleryImages = [
   },
   //Funerals
   {
-    src: "/IMG_1804.jpg",
+    src: "/IMG_1804.JPG",
     category: "Funerals",
   },
   {
-    src: "/IMG_1898.jpg",
+    src: "/IMG_1898.JPG",
     category: "Funerals",
   },  
   {
-    src: "/IMG_3508.jpg",
+    src: "/IMG_3508.JPG",
     category: "Funerals",
   },
   {
-    src: "/IMG_3990.jpg",
+    src: "/IMG_3990.JPG",
     category: "Funerals",
   },  
   {
-    src: "/IMG_7272.jpg",
+    src: "/IMG_7272.JPG",
     category: "Funerals",
   },
   {
-    src: "/IMG_7580.jpg",
+    src: "/IMG_7580.JPG",
     category: "Funerals",
   },
   {
-    src: "/IMG_2110.jpg",
+    src: "/IMG_2110.JPG",
     category: "Funerals",
   },
   {
-    src: "/IMG_9676.jpg",
+    src: "/IMG_9676.JPG",
     category: "Funerals",
   },
   {
