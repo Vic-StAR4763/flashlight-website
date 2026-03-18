@@ -21,7 +21,7 @@ const eventServices = [
       "Setup and takedown service",
       "Delivery within Makueni County",
     ],
-    image: "/IMG-20251215-WA0025.jpg",
+    image: "/IMG20251215WA0025.jpg",
   },
   {
     id: "decorations",
@@ -54,7 +54,7 @@ const eventServices = [
       "Customizable menus",
       "Dietary accommodations",
     ],
-    image: "/IMG-20251215-WA0034.jpg",
+    image: "/IMG_9386.JPG",
   },
   {
     id: "video-photography",

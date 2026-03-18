@@ -34,10 +34,10 @@ const values = [
 ]
 
 const milestones = [
-  { year: "Founded", description: "Started as a small tent hire service in Mukuyuni" },
-  { year: "Expanded", description: "Added decoration and catering services" },
-  { year: "Growth", description: "Opened coffin sales branch in Wote Town" },
-  { year: "Today", description: "Serving hundreds of families across Makueni County" },
+  { year: "Founded", description: "Started as a photograph shop in Mukuyuni" },
+  { year: "Expanded", description: "Added tents and funeral services" },
+  { year: "Growth", description: "Added decorations and catering" },
+  { year: "Today", description: "Serving hundreds of families across Makueni County and beyond" },
 ]
 
 export default function AboutPage() {
@@ -68,7 +68,7 @@ export default function AboutPage() {
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
                     Flashlight Live Events was born from a simple vision: to help families in Makueni County celebrate
-                    life&apos;s most important moments with dignity and joy. What started as a small tent hire service
+                    life&apos;s most important moments with dignity and joy. What started as a small photograph shop
                     in Mukuyuni has grown into a comprehensive event and funeral services company trusted by hundreds of
                     families.
                   </p>

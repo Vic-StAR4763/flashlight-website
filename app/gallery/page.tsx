@@ -244,6 +244,18 @@ const galleryImages = [
   },
   //Ceremonies
   {
+    src: "/IMG_9529.JPG",
+    category: "Ceremonies",
+  },
+  {
+    src: "/IMG_9550.JPG",
+    category: "Ceremonies",
+  },
+  {
+    src: "/IMG_9711.JPG",
+    category: "Ceremonies",
+  },
+  {
     src: "/IMG-20251214-WA0021.jpg",
     caption: "Traditional dowry ceremony arrangement",
     category: "Ceremonies",
@@ -499,6 +511,106 @@ const galleryImages = [
     category: "Ceremonies",
   },
   //Funerals
+    {
+    src: "/IMG_2914.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2745.JPG" ,
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2715.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2713.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2582.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2558.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2439.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2426.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2347.JPG" ,
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2331.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src:"/IMG_2232.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2230.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2183.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_2120.JPG" ,
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_1943.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_1854.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_1404.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_0524.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+  {
+    src: "/IMG_0316.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
+    {
+    src: "/IMG_0073.JPG",
+    caption:"Respectful funeral tent and seating arrangement",
+    category: "Funerals",
+  },
   {
     src: "/IMG_1804.JPG",
     category: "Funerals",
